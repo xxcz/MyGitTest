@@ -1,4 +1,0 @@
-333+333+333
-new function A
-new function B
-new function C
